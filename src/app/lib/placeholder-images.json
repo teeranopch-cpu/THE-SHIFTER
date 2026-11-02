@@ -1,0 +1,59 @@
+
+{
+  "placeholderImages": [
+    {
+      "id": "city-traffic",
+      "description": "Busy city traffic congestion",
+      "imageUrl": "https://picsum.photos/seed/city1/800/450",
+      "imageHint": "city traffic"
+    },
+    {
+      "id": "pollution",
+      "description": "Industrial pollution in urban area",
+      "imageUrl": "https://picsum.photos/seed/pollution/800/450",
+      "imageHint": "urban pollution"
+    },
+    {
+      "id": "waste",
+      "description": "Waste management issues in city",
+      "imageUrl": "https://picsum.photos/seed/waste/800/450",
+      "imageHint": "waste management"
+    },
+    {
+      "id": "energy",
+      "description": "Power grid and energy consumption",
+      "imageUrl": "https://picsum.photos/seed/energy/800/450",
+      "imageHint": "city energy"
+    },
+    {
+      "id": "card-innovation-1",
+      "description": "Smart sensor technology",
+      "imageUrl": "https://picsum.photos/seed/sensor/200/300",
+      "imageHint": "smart sensor"
+    },
+    {
+      "id": "card-innovation-2",
+      "description": "Green roof installation",
+      "imageUrl": "https://picsum.photos/seed/greenroof/200/300",
+      "imageHint": "green roof"
+    },
+    {
+      "id": "governance-innovation",
+      "description": "Governance strategy image",
+      "imageUrl": "https://drive.google.com/uc?export=view&id=1txUaYGvZRLq5bs_ZZbpXf_i1c7-zKlf9",
+      "imageHint": "governance technology"
+    },
+    {
+      "id": "inn-0",
+      "description": "AI Link Detector",
+      "imageUrl": "https://picsum.photos/seed/inn0/200/300",
+      "imageHint": "cyber security"
+    },
+    {
+      "id": "inn-7",
+      "description": "Smart Waste Sensors",
+      "imageUrl": "https://picsum.photos/seed/inn7/200/300",
+      "imageHint": "waste management"
+    }
+  ]
+}
